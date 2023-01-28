@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Kanybekov26.github.io/lesson-11-hw-order-food/static/css/main.145dc572.css",
-    "main.js": "/Kanybekov26.github.io/lesson-11-hw-order-food/static/js/main.9e489a75.js",
-    "static/media/samary-backg.jpg": "/Kanybekov26.github.io/lesson-11-hw-order-food/static/media/samary-backg.058e3a5749d88597754f.jpg",
-    "static/media/BasketIcon.svg": "/Kanybekov26.github.io/lesson-11-hw-order-food/static/media/BasketIcon.c36faa3efca4c2a3b7311ff4f8994381.svg",
-    "index.html": "/Kanybekov26.github.io/lesson-11-hw-order-food/index.html",
-    "static/media/plus-icon.svg.svg": "/Kanybekov26.github.io/lesson-11-hw-order-food/static/media/plus-icon.svg.b8a001afefc325562f9c1143fc9f21cd.svg",
-    "main.145dc572.css.map": "/Kanybekov26.github.io/lesson-11-hw-order-food/static/css/main.145dc572.css.map",
-    "main.9e489a75.js.map": "/Kanybekov26.github.io/lesson-11-hw-order-food/static/js/main.9e489a75.js.map"
+    "main.css": "/lesson-11-hw-order-food/static/css/main.145dc572.css",
+    "main.js": "/lesson-11-hw-order-food/static/js/main.f2d5336d.js",
+    "static/media/samary-backg.jpg": "/lesson-11-hw-order-food/static/media/samary-backg.058e3a5749d88597754f.jpg",
+    "static/media/BasketIcon.svg": "/lesson-11-hw-order-food/static/media/BasketIcon.c36faa3efca4c2a3b7311ff4f8994381.svg",
+    "index.html": "/lesson-11-hw-order-food/index.html",
+    "static/media/plus-icon.svg.svg": "/lesson-11-hw-order-food/static/media/plus-icon.svg.b8a001afefc325562f9c1143fc9f21cd.svg",
+    "main.145dc572.css.map": "/lesson-11-hw-order-food/static/css/main.145dc572.css.map",
+    "main.f2d5336d.js.map": "/lesson-11-hw-order-food/static/js/main.f2d5336d.js.map"
   },
   "entrypoints": [
     "static/css/main.145dc572.css",
-    "static/js/main.9e489a75.js"
+    "static/js/main.f2d5336d.js"
   ]
 }
